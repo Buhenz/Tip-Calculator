@@ -20,4 +20,4 @@ The biggest problem for me was to create this program in such a way that always 
 
 # A few words from me
 
-This is my first project using JavaScript, I'm learning it soon, it's my 2nd month of learning, I realize it's not a complicated program, but I've spent nearly 40 hours on it and I hope they gave me something more than just dry watching tutorials
+This is my first "bigger" project using JavaScript, I'm learning it soon, it's my 2nd month of learning, I realize it's not a complicated program, but I've spent nearly 40 hours on it and I hope they gave me something more than just dry watching tutorials
